@@ -9,6 +9,7 @@ public class WeatherReportApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(WeatherReportApplication.class, args);
 		System.out.print("hello world");
+		System.out.print("hello world");
 	}
 
 }
